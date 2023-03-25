@@ -1,0 +1,10 @@
+^D:\AI\ALPACA.CPP\CMAKEFILES\B0ADCF8A78C5795BC5AF7A6514448E0B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/ai/alpaca.cpp -BD:/ai/alpaca.cpp --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/ai/alpaca.cpp/alpaca.cpp.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

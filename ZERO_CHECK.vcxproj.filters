@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\ai\alpaca.cpp\CMakeFiles\b0adcf8a78c5795bc5af7a6514448e0b\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{21C0BA2E-9F44-309F-B787-0BEE005E29C2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

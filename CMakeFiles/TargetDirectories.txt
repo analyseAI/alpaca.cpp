@@ -1,0 +1,5 @@
+D:/ai/alpaca.cpp/CMakeFiles/chat.dir
+D:/ai/alpaca.cpp/CMakeFiles/quantize.dir
+D:/ai/alpaca.cpp/CMakeFiles/ggml.dir
+D:/ai/alpaca.cpp/CMakeFiles/ALL_BUILD.dir
+D:/ai/alpaca.cpp/CMakeFiles/ZERO_CHECK.dir
